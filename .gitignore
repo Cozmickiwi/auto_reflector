@@ -1,2 +1,2 @@
 /target
-!./target/release/auto_reflector
+!target/release/auto_reflector
