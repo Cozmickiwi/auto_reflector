@@ -1,4 +1,3 @@
-use core::panic;
 use std::{
     env::current_dir,
     io::{stdin, BufRead, BufReader},
